@@ -166,12 +166,12 @@ initial_activities = {
     },
     "Manga Maniacs": {
         "description": "Dive into epic adventures, unforgettable heroes, and wild worlds as we explore the best of Japanese manga—from page-turning battles to heartfelt stories!",
-        "schedule": "Tuesdays, 7:00 PM",
+        "schedule": "Tuesdays, 5:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00"
+            "start_time": "17:00"
         },
-        "max_participants": 15,
+        "max_participants": 25,
         "participants": []
     }
 }
